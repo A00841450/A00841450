@@ -1,4 +1,4 @@
-## Hi there 👋
+datosEq1.csv
 
 <!--
 **A00841450/A00841450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
